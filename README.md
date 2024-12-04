@@ -1,7 +1,3 @@
-Certainly! Including screenshots in your README can greatly enhance the user experience by providing visual references. Below is the updated README content with placeholders for screenshots. You can replace the placeholders with the actual paths to your images once you have them.
-
----
-
 # Real-time Chat Application
 
 A full-stack real-time chat application built with Node.js, Express, MongoDB, React, and WebSockets. This application allows users to register, log in, and chat with other online users in real-time.
